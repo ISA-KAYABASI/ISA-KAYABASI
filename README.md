@@ -10,7 +10,7 @@ I'm Isa, I am working to be a quality Java Developer and I am improving myself i
 <h3 align="center">Connect with me:</h3>
 
 <p align="center"><a href="mailto:ISAKAYABASI30@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ISAKAYABASI30@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/isa-kayabasi-972951231/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@isa-kayabasi-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/isa-kayabasi-972951231/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@isa kayabasi-blue?style=flat&logo=linkedin"></a>
 </p>
 
 

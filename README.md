@@ -2,11 +2,7 @@
 <h3 align="center">Full Stack Java Developer
 <br>
 <br>
-//<img align="center" src="https://cdn-icons-png.flaticon.com/512/2621/2621217.png" alt="coder" height="100" width="100" /></a>
-
-<img align="center"[ src="https://cdn-icons-png.flaticon.com/512/2621/2621217.png](https://cpng.pikpng.com/pngl/s/204-2047589_java-png-icon-clipart.png)" alt="coder" height="100" width="100" /></a>
-
-
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/2621/2621217.png" alt="coder" height="100" width="100" /></a>
 </h3>
 
    I'm Isa, I am working to be a quality Java Developer and I am improving myself in this field. I am sharing my projects here.

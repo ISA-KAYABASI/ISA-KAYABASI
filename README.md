@@ -39,7 +39,7 @@ I'm Isa, I am working to be a quality Java Developer and I am improving myself i
     <a href="https://www.postgresql.org/about/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="55" height="55"/> </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="75" height="55"/> </a>
-	    <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/redis/redis-icon.svg" alt="REDIS" width="75" height="55"/> </a>
+	<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="75" height="55"/> </a>
     </p>
 
 

@@ -3,7 +3,7 @@
 <br>
 <br>
 //<img align="center" src="https://cdn-icons-png.flaticon.com/512/2621/2621217.png" alt="coder" height="100" width="100" /></a>
-<img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-vertical.svg" alt="coder" height="100" width="100" /></a>
+<img align="center" src="[https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-vertical.svg](https://www.pikpng.com/pngvi/iRbRmhJ_java-png-icon-clipart/)" alt="coder" height="100" width="100" /></a>
 
 </h3>
 

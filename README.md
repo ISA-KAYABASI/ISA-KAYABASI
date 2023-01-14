@@ -39,6 +39,8 @@
     &nbsp;&nbsp;&nbsp;
     <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="75" height="55"/> </a>
 	<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="75" height="55"/> </a>
+	<br><br>
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="55" height="55"/> </a>
     </p>
 
 

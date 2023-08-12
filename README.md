@@ -32,8 +32,6 @@
 	&nbsp;&nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="55"/> </a> 
 	&nbsp;&nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="100" height="55"/> </a>  
-	&nbsp;&nbsp;&nbsp;
 	<br><br>
     <a href="https://www.postgresql.org/about/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="55" height="55"/> </a>
     &nbsp;&nbsp;&nbsp;

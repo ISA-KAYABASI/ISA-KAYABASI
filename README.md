@@ -1,5 +1,5 @@
 <h1 align="center">Isa Kayabasi</h1>
-<h3 align="center">Full Stack Java Developer
+<h3 align="center">Software Developer
 <br>
 <br>
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/2621/2621217.png" alt="coder" height="100" width="100" /></a>

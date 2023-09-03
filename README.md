@@ -43,7 +43,7 @@
 
  <a href="https://www.mongodb.com/mern-stack" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="75" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-official.svg" alt="Express.js" width="75" height="55"/>
+ <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="75" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="75" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="75" height="55"/>
 </a>

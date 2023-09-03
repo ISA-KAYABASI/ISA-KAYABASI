@@ -40,6 +40,13 @@
 	<br><br>
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="55" height="55"/> </a>
 	 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="75" height="55"/>
+
+ <a href="https://www.mongodb.com/mern-stack" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-official.svg" alt="MongoDB" width="75" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-official.svg" alt="Express.js" width="75" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="75" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="75" height="55"/>
+</a>
     </p>
  
 
